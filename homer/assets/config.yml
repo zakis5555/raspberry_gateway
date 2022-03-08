@@ -73,10 +73,10 @@ services:
       - name: "Hotspot"
         icon: "fas fa-wifi"
         subtitle: "RaspAp hotspot"
-        url: ":6969"
+        url: "http://10.3.141.1:6969"
         target: "_blank" # optional html a tag target attribute
       - name: "Octoprint"
         icon: "fab fa-octopus-deploy"
         subtitle: "3D Printer Managment"
-        url: ":4200"
+        url: "http://10.3.141.1:4200"
         target: "_blank" # optional html a tag target attribute
