@@ -73,10 +73,10 @@ services:
       - name: "Hotspot"
         icon: "fas fa-wifi"
         subtitle: "RaspAp hotspot"
-        url: "localhost:6969"
+        url: ":6969"
         target: "_blank" # optional html a tag target attribute
       - name: "Octoprint"
         icon: "fab fa-octopus-deploy"
         subtitle: "3D Printer Managment"
-        url: "localhost:4200"
+        url: ":4200"
         target: "_blank" # optional html a tag target attribute
