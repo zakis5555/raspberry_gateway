@@ -4,8 +4,7 @@
 
 title: "Raspberry pi main gateway"
 subtitle: ""
-logo: "logo.png"
-# icon: "fas fa-skull-crossbones" # Optional icon
+icon: "fab fa-raspberry-pi" # Optional icon
 
 header: true
 footer: 'Created with <a href="https://github.com/zakis5555">❤️</a>' # set false if you want to hide it.
@@ -51,18 +50,18 @@ message:
 # Optional navbar
 # links: [] # Allows for navbar (dark mode, layout, and search) without any links
 links:
-  - name: "Contribute"
+  - name: "Github"
     icon: "fab fa-github"
-    url: "https://github.com/bastienwirtz/homer"
+    url: "https://github.com/zakis5555"
     target: "_blank" # optional html a tag target attribute
-  - name: "Wiki"
-    icon: "fas fa-book"
-    url: "https://www.wikipedia.org/"
+  - name: "Youtube"
+    icon: "fab fa-youtube"
+    url: "https://www.youtube.com/channel/UCaA_reAwdBQ0XZHmbw23DlA"
   # this will link to a second homer page that will load config from additionnal-page.yml and keep default config values as in config.yml file
   # see url field and assets/additionnal-page.yml.dist used in this example:
-  - name: "another page!"
-    icon: "fas fa-file-alt"
-    url: "#additionnal-page" 
+  - name: "Discord"
+    icon: "fab fa-discord"
+    url: "https://www.wikipedia.org/" 
 
 # Services
 # First level array represent a group.
