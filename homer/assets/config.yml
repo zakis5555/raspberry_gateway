@@ -73,7 +73,7 @@ services:
     items:
       - name: "Hotspot"
         logo: "/assets/tools/wifihotspot.png"
-        subtitle: "RaspAp hotspot1"
+        subtitle: "RaspAp hotspot"
         url: "localhost:6969"
         target: "_blank" # optional html a tag target attribute
       - name: "Octoprint"
