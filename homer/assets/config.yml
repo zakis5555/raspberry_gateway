@@ -71,12 +71,12 @@ services:
     icon: "fas fa-cloud"
     items:
       - name: "Hotspot"
-        logo: "/assets/tools/wifihotspot.png"
+        icon: "fas fa-wifi"
         subtitle: "RaspAp hotspot"
         url: "localhost:6969"
         target: "_blank" # optional html a tag target attribute
       - name: "Octoprint"
-        logo: "assets/tools/octoprint.png"
+        icon: "fab fa-octopus-deploy"
         subtitle: "3D Printer Managment"
         url: "localhost:4200"
         target: "_blank" # optional html a tag target attribute
