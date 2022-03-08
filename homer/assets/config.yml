@@ -7,7 +7,7 @@ subtitle: "⠀"
 icon: "fab fa-raspberry-pi" # Optional icon
 
 header: true
-footer: 'Created with <a href="https://github.com/zakis5555">❤️</a>' # set false if you want to hide it.
+footer: 'Created with <a href="https://kakub.tk">❤️</a> by Marek Petr' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
